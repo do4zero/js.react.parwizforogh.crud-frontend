@@ -1,0 +1,12 @@
+.articles{
+    padding: 50px;
+    .right{
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .image{
+        display: block;
+        object-fit: cover;
+    }
+}
